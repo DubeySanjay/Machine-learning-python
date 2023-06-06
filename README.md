@@ -1,2 +1,2 @@
 # Machine-learning-python
-This Jupyter Notebooks are completed using Python and its ML/DL libraries namely; pyTorch, TensorFlow, Pandas, NumPy, matplotlib, plotly, Seaborn, Scikit-learn.
+These Jupyter Notebooks are completed using Python and its ML/DL libraries namely; pyTorch, TensorFlow, Pandas, NumPy, matplotlib, plotly, Seaborn, Scikit-learn.

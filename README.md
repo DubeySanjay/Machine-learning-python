@@ -1,2 +1,2 @@
 # Machine-learning-python
-Machine Learning in python under the guidance of Dr. Eric Larson
+This Jupyter Notebooks are completed using Python and its ML/DL libraries namely; pyTorch, TensorFlow, Pandas, NumPy, matplotlib, plotly, Seaborn, Scikit-learn.
